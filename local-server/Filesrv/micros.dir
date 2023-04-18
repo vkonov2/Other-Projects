@@ -1,0 +1,8 @@
+Protocol description                          ‰   ‰filesrv.txt
+    In html                                   ‰   ‰filesrv.html
+Protocol definitions                          ‰   ‰filesrv.h
+File server                                   ‰   ‰filesrv.cpp
+File client                                   ‰   ‰filecli.cpp
+                                              ‰   ‰
+Test the "readdir" function                   ‰   ‰tstls.cpp
+Makefile                                      ‰   ‰Makefile
